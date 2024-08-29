@@ -1,5 +1,4 @@
-# Sneaker-Price-Prediction
-
+# Machine Learning Models for Sneaker Price Forecasting
 This project is a sneaker price prediction application built using Python, Django, and SQLite. It aims to predict the price of sneakers based on various features using machine learning algorithms.
 
 ## Features
@@ -19,5 +18,5 @@ This project is a sneaker price prediction application built using Python, Djang
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/sneaker-price-prediction.git
-   cd sneaker-price-prediction
+   git clone https://github.com/Ibaad-AhmedAjaz/Sneaker-Price-Prediction.git
+   cd Sneaker-Price-Prediction
